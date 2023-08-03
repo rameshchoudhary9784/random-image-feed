@@ -16,5 +16,5 @@ function getRandomSize()
 }
 
 function getRondomNumber() {
-    return Math.floor(Math.random() * 10) + 300
+    return Math.floor(Math.random() * 30) + 300
 }
